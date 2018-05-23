@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ee7d37-bd04-4682-a2fd-23bb1ae97be4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/WebScraping Note-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/WebScraping Note-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebScraping Note.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraping Note.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REGEX.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/REGEX.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +15,7 @@
     <favorites_list name="WebScraping" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +48,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,10 +59,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SARIMA_MODEL_VER2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,20 +101,20 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32920355" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49868074" visible="true" weight="0.25506073" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49604222" visible="true" weight="0.25910932" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5013193" side_tool="true" weight="0.25506073" />
-      <window_info id="Favorites" order="2" sideWeight="0.5013193" side_tool="true" visible="true" weight="0.25506073" />
+      <window_info id="Favorites" order="2" sideWeight="0.5039578" side_tool="true" visible="true" weight="0.25910932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
